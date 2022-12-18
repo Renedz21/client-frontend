@@ -1,0 +1,1 @@
+export { addToCart, removeToCart } from './cart.slice'
